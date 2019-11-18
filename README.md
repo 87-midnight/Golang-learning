@@ -1,3 +1,5 @@
+***warning:this project has been migrating to [NewbieInPrograming](https://github.com/87-midnight/NewbieInPrograming),and it would never be maintained forever***
+
 ## go-example
 
 golang语言学习入门，基础语法，常用框架等
